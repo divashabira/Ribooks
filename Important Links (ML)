@@ -1,0 +1,5 @@
+https://www.pluralsight.com/guides/building-a-recommendation-engine-with-tensorflow (main source for our model)
+https://www.analyticsvidhya.com/blog/2021/06/how-to-load-kaggle-datasets-directly-into-google-colab/ (explanation on how to read kaggle dataset from collab)
+https://www.kaggle.com/datasets/nguyenphd/goodreads-best-books-ever-with-recommendations (our main dataset)
+https://www.kaggle.com/code/nguyenphd/goodreads-simple-recommendation-system (Goodreads' Simple Recommendation System using scilearn)
+https://www.kaggle.com/code/nguyenphd/data-exploration-on-goodreads-best-books-list(Data Exploration on Goodreads Best Books List)
